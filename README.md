@@ -3,6 +3,8 @@
 ## Project Overview
 In this project, I deployed a static HTML/CSS website using Amazon S3. I created an S3 bucket, configured it for static website hosting, applied the correct permissions, and made the site publicly accessible. This project helped me understand core AWS fundamentals such as cloud storage, access control, bucket policies, and static hosting.
 
+http://yvener-cloud-portfolio.s3-website-us-east-1.amazonaws.com
+
 ## What I Built
 - A fully hosted static website on Amazon S3
 - A custom 404 error page
